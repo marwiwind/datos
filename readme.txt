@@ -20,4 +20,8 @@ $ git add readme.txt # estoy añadiendo mi archivo en local
 
 $ git add . # para añadir todo lo que haya en la carpeta
 
+# git identifica los cambios contando el nº de caracteres y otra cosa y así identifica si algo ha cambiado o no
+
+# git commit -m "el nombre que le quiera poner a mi archivo" #esto en local
+
 
