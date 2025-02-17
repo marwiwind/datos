@@ -51,3 +51,30 @@ sole y marta van a trabajar ese repositorio inicial y sacan una copia
 ambas hacen sus cambios y hacen sus git add, git commit y git push
 
 si ambas hicieran un pull request al mismo tiempo, el creador tendrá que ver cuál acepta primero
+
+### CONNEXIÓN DATOS ###
+
+En mi GitHub, en un repositorio que tenga en code en verde está la opción https y ssh.
+
+la -a # te lista también los archivos ocultos
+
+.gitignore lo creamos y añadimos el archivo la carpeta o el archivo que no queremos que trackee
+
+esto se hace poniéndole el nombre del archivo
+
+el gitignore si que se trackea
+
+siempre que abramos un documento colaborativo hay que hacer un git pull origin mastere para observar los últimos cambios
+
+fork es para sacar un clon del respositorio
+
+git init para crear un repositorio
+
+git clone (y añadimos url)
+
+cd.. para ir hacia atrás un nivel
+
+cd para ir al inicio
+
+git remote remove origin # no sé muy bien qué hace
+
