@@ -33,3 +33,21 @@ git commit -m "le pongo nombre"
 git status # lo compruebo
 
 git push origin master # hago la subida a remoto
+
+### CLONACIÓN DE ARCHIVOS ###
+
+creo repositorio que se llama repo_datos
+
+alguien que quiere trabajar con esto se crea un clon online y tiene una copia de ese repositorio
+
+hace un repositorio local y un git add, git commit y git push y lo sube a su repositorio online con sus cambios
+
+si quiere incorporar sus cambios en el repositorio original es hacer un pull request
+
+### CONFLICTOS ###
+
+sole y marta van a trabajar ese repositorio inicial y sacan una copia
+
+ambas hacen sus cambios y hacen sus git add, git commit y git push
+
+si ambas hicieran un pull request al mismo tiempo, el creador tendrá que ver cuál acepta primero
