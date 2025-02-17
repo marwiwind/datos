@@ -24,4 +24,12 @@ $ git add . # para añadir todo lo que haya en la carpeta
 
 # git commit -m "el nombre que le quiera poner a mi archivo" #esto en local
 
+### CUANDO MODIFICO Y QUIERO SUBIRLO A GITHUB ###
 
+git add . #subo la carpeta directamente
+
+git commit -m "le pongo nombre" 
+
+git status # lo compruebo
+
+git push origin master # hago la subida a remoto
